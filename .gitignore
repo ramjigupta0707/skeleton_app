@@ -1,1 +1,2 @@
 ./skeleton_app/lib/*
+*/__pycache__/*
